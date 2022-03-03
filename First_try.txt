@@ -1,4 +1,3 @@
 First try and this is the second!
-Now create a branch from master
-Modified branch Malga that I created
-Modified another time Malga branch
+
+Now created a Scenario 2 with master modified and Malga modified
